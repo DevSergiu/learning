@@ -1,0 +1,2 @@
+# Learning exercises
+*JavaScript*
